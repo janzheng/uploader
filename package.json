@@ -1,0 +1,14 @@
+{
+  "name": "uploader",
+  "version": "1.0.0",
+  "description": "rclone cli uploader",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.12",
+    "yargs": "^17.7.2"
+  },
+  "bin": {
+    "uploader": "./index.mjs"
+  }
+}
