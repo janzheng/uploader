@@ -45,3 +45,8 @@ These are rough guidelines; please adjust to your environment
 - Use interactive CLI: `python3 uploader.py` then follow prompts
 - Use flags: `python3 uploader.py -h` for commands / help
   - Example, if you try to upload folder "test": `python3 uploader.py --path ./test --project my-test-project`
+
+
+---
+
+This code was co-written with GPT-4.

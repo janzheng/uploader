@@ -1,3 +1,2 @@
-/node_modules
-/test
-/uploader_env
+node_modules/
+uploader_env/
